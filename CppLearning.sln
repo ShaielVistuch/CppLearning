@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36203.30 d17.14
+VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppLearning", "CppLearning\CppLearning.vcxproj", "{677DD737-C634-4121-9335-F8F63CF4ED1B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fold", "Fold\Fold.vcxproj", "{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{677DD737-C634-4121-9335-F8F63CF4ED1B}.Release|x64.Build.0 = Release|x64
 		{677DD737-C634-4121-9335-F8F63CF4ED1B}.Release|x86.ActiveCfg = Release|Win32
 		{677DD737-C634-4121-9335-F8F63CF4ED1B}.Release|x86.Build.0 = Release|Win32
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Debug|x64.ActiveCfg = Debug|x64
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Debug|x64.Build.0 = Debug|x64
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Debug|x86.Build.0 = Debug|Win32
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Release|x64.ActiveCfg = Release|x64
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Release|x64.Build.0 = Release|x64
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Release|x86.ActiveCfg = Release|Win32
+		{12C197FB-E6BB-40C7-A221-826EB9B5EF8D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
