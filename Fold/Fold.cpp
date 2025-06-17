@@ -7,8 +7,7 @@ int main() {
             result = num * num2;
             if (result < 10) {
                 std::cout << num * num2 << "   ";
-            }
-            else {
+            } else {
                 std::cout << num * num2 << "  ";
             }
         }

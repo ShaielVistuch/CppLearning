@@ -126,7 +126,7 @@
     <ClCompile Include="Fold.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\CppLearning\.clang-format" />
+    <None Include=".clang-format" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
